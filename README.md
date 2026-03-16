@@ -108,6 +108,5 @@ More regression algorithms will be added in the future, including:
 ## 👨‍💻 Author
 
 **Supreet Raju**
-Junior Machine Learning Engineer
 
 This repository is part of a collection of mini machine learning projects exploring different algorithms across regression and classification.
